@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kimutai004
-- 👀 I’m interested in Web design and software engineering
+- 👋 Hi, I’m Peter Kimutai 
+- 👀 I’m interested in Web design, software engineering, machine learning and AI.
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on all computer science community project where my help will be required
 - 📫 You can reach me through email peterkimutai004@gmail.com
