@@ -6,7 +6,7 @@
 
 - ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kimutai004&show_icons=true&theme=radical)
 
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimutai004&layout=compact&theme=radical)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/all-langs/?username=Kimutai004&layout=compact&theme=radical)
 
 
 
