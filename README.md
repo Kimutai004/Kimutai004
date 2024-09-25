@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on all computer science community project where my help will be required
 - 📫 You can reach me through email peterkimutai004@gmail.com
 
+- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kimutau004&show_icons=true&theme=radical)
+
+
 <!---
 Kimutai004/Kimutai004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
