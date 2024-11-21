@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on all computer science community project where my help will be required
 - 📫 You can reach me through email peterkimutai004@gmail.com
 
-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kimutai004&show_icons=true&theme=radical)
-
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimutai004&layout=compact&theme=radical)
 
 # Programming Languages I'm Proficient In
